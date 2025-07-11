@@ -1,0 +1,7 @@
+E:\C#\Fighting\Fighting\bin\Debug\Fighting.exe.config
+E:\C#\Fighting\Fighting\bin\Debug\Fighting.exe
+E:\C#\Fighting\Fighting\bin\Debug\Fighting.pdb
+E:\C#\Fighting\Fighting\obj\Debug\Fighting.csproj.AssemblyReference.cache
+E:\C#\Fighting\Fighting\obj\Debug\Fighting.csproj.CoreCompileInputs.cache
+E:\C#\Fighting\Fighting\obj\Debug\Fighting.exe
+E:\C#\Fighting\Fighting\obj\Debug\Fighting.pdb
